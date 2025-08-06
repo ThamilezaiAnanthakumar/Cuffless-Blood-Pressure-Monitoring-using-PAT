@@ -29,13 +29,10 @@ PAT is the time interval between the **R-peak** in the ECG signal and the **puls
 - Signal processing algorithms for R-peak and pulse onset detection
 - Machine Learning for BP prediction
 
-## PAT and PTT
+## PAT 
 
-### 1. PAT Visualization  
-![PAT Image](https://raw.githubusercontent.com/your-username/your-repo/main/Assets/PAT_Visual.png)
-
-### 2. Custom Dual-Sensor PCB  
-![PCB Image](https://raw.githubusercontent.com/your-username/your-repo/main/Assets/DualSensor_PCB.png)
+###  PAT Visualization  
+![PAT Image](Assets/PAT.png)
 
 
 ## Status
