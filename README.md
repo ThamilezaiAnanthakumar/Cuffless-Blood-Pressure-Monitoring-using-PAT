@@ -32,7 +32,7 @@ PAT is the time interval between the **R-peak** in the ECG signal and the **puls
 ## PAT 
 
 ###  PAT Visualization  
-![PAT Image](![PAT Image](https://raw.githubusercontent.com/ThamilezaiAnanthakumar/Cuffless-Blood-Pressure-Monitoring-using-PAT/main/Assets/PAT.png)
+![PAT Image](https://raw.githubusercontent.com/ThamilezaiAnanthakumar/Cuffless-Blood-Pressure-Monitoring-using-PAT/main/Assets/PAT.png)
 
 
 
